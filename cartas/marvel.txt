@@ -1,0 +1,32 @@
+Capitao America//2A//false//186//4//29//6//86
+Elektra//2B//false//173//4//15//6//80
+Hulk//1A//false//210//2//50//6//73
+Mulher Invisivel//3D//false//165//3//23//2//70
+Homem-Aranha//1B//true//175//7//36//11//66
+Tocha Humana//2D//false//175//4//26//5//71
+Ciclope//6A//false//183//4//30//6//80
+Fenix//8B//false//165//5//26//4//75
+Dr. Destino//4D//false//186//8//48//4//70
+Viuva Negra//6D//false//168//4//26//4//81
+Venon//6B//false//188//3//38//10//64
+Duende Verde//4C//false//178//6//35//10//55
+Thor//4B//false//195//4//49//9//85
+Sr. Fantastico//3C//false//183//9//23//2//65
+Justiceiro//5D//false//180//4//30//3//92
+Fanatico//7A//false//205//3//48//2//63
+Homem de Ferro//3A//false//183//6//48//2//85
+Tempestade//3B//false//178//4//27//12//68
+Coisa//2C//false//180//3//47//8//65
+Dr. Octopus//5B//false//173//7//23//2//50
+Motoqueiro Fantasma//5A//false//181//3//37//8//66
+Mistica//7D//false//175//6//25//6//76
+Blade//6C//false//158//3//29//5//85
+Homem de Gelo//7B//false//170//3//28//4//70
+Galactus//8D//false//862//10//50//20//55
+Surfista Prateado//4A//false//190//4//46//13//72
+Wolverine//1C//false//158//5//35//6//95
+Magneto//5C//false//185//8//46//2//81
+Rei do Crime//7C//false//198//7//30//4//75
+Demolidor//1D//false//180//5//23//3//88
+Mulher-Hulk//8A//false//198//4//48//3//72
+Capitao Marvel//8C//false//185//3//35//20//62
